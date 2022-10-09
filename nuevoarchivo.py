@@ -1,0 +1,1 @@
+print("amor es roma al revez")
